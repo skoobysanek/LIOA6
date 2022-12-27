@@ -1,0 +1,30 @@
+﻿Построение начато 16.12.2022 14:22:42.
+     1>Проект "D:\Users\21vv3\mops 6.2\mops 6.2\mops 6.2.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\mops 6.2.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\mops 6.2.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "mops 6.2.cpp"
+         mops 6.2.cpp
+     1>d:\users\21vv3\mops 6.2\mops 6.2\mops 6.2.cpp(45): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>d:\users\21vv3\mops 6.2\mops 6.2\mops 6.2.cpp(312): warning C4101: temp2: неиспользованная локальная переменная
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\21vv3\mops 6.2\Debug\mops 6.2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\mops 6.2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Users\21vv3\mops 6.2\Debug\mops 6.2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\21vv3\mops 6.2\Debug\mops 6.2.lib" /MACHINE:X86 "Debug\mops 6.2.exe.embed.manifest.res"
+         "Debug\mops 6.2.obj"
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\mops 6.2.exe.embed.manifest" /manifest "Debug\mops 6.2.exe.intermediate.manifest"
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         mops 6.2.vcxproj -> D:\Users\21vv3\mops 6.2\Debug\mops 6.2.exe
+       FinalizeBuildStatus:
+         Файл "Debug\mops 6.2.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\mops 6.2.lastbuildstate".
+     1>Построение проекта "D:\Users\21vv3\mops 6.2\mops 6.2\mops 6.2.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.97
